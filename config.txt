@@ -1,0 +1,4 @@
+firefoxPath ../../firefox46/firefox/firefox.exe
+scraperThreadsNum 3
+pageLoadTimeout 20
+DRIVERTYPE SELENIUM
